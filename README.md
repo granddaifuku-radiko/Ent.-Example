@@ -117,6 +117,7 @@ func TestXXX(t *testing.T) {
 - protoc-gen-go
 - protoc-gen-go-grpc
 - protoc-gen-entgrpc
+
 上記4つをインストールする必要あり
 
 5. `go generate ./...`で`./ent/proto/entpb/entpb.pb.go`が生成
@@ -137,3 +138,6 @@ func TestXXX(t *testing.T) {
 
 ## Webアプリケーション作成
 - https://zenn.dev/mattn/articles/c08072b42f7a5cdcd749
+
+## gRPC
+- https://zenn.dev/mikankitten/articles/0437fa6fb7de82
