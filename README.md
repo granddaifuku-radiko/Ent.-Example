@@ -123,3 +123,17 @@ func TestXXX(t *testing.T) {
 
 ## gRPCサービスの生成
 - スキーマの`Annotation`に`entproto.Service()`と追記&`go generate ./...`でCRUDサービスが生成
+
+
+# 参考記事
+## 所感的な記事
+- https://tech.smartcamp.co.jp/entry/try-go-ent 
+- https://future-architect.github.io/articles/20210728a/
+- https://zenn.dev/masamiki/articles/83a8db3f132fcb1c48f0
+- https://developpaper.com/ent-orm-note-2-schema-usage-part-1/
+
+## エッジについて深掘り
+- https://tennashi.hatenablog.com/entry/2020/09/05/233518
+
+## Webアプリケーション作成
+- https://zenn.dev/mattn/articles/c08072b42f7a5cdcd749
